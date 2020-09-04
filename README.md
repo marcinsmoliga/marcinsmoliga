@@ -1,3 +1,5 @@
+[![image](https://github.com/marcinsmoliga/marcinsmoliga/blob/master/logo%20(6).png)](https://github.com/marcinsmoliga?tab=repositories)
+
 ### Hi there 👋
 
 <!--

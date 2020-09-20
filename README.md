@@ -1,6 +1,7 @@
 [![image](https://github.com/marcinsmoliga/marcinsmoliga/blob/master/logo%20(6).png)](https://github.com/marcinsmoliga?tab=repositories)
 
 ### Hi there 👋
+:books: THE BOOKS I HAVE READ
 
 <!--
 **marcinsmoliga/marcinsmoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

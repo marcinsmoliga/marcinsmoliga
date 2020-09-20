@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 :books: THE BOOKS I HAVE READ
+:grey_exclamation: Java
+:grey_exclamation: SQL
+:grey_exclamation: Spring
+:grey_exclamation: Agile
 
 <!--
 **marcinsmoliga/marcinsmoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

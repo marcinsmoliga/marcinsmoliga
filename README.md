@@ -2,12 +2,12 @@
 
 ### Hi there 👋
 :books: THE BOOKS I HAVE READ  
-:grey_exclamation: Java  
-:grey_exclamation: SQL  
-* "Sams Teach Yourself SQL in 10 minutes" B.Forta  
-:grey_exclamation: Spring  
-:grey_exclamation: Agile  
-* "The Art of Agile Development" J.Shore & S.Warden
+* Java    
+* SQL    
+ -"Sams Teach Yourself SQL in 10 minutes" B.Forta  
+* Spring    
+* Agile    
+ - "The Art of Agile Development" J.Shore & S.Warden
 
 <!--
 **marcinsmoliga/marcinsmoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

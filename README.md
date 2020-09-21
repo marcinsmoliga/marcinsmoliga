@@ -6,6 +6,7 @@
 :grey_exclamation: SQL  
 :grey_exclamation: Spring  
 :grey_exclamation: Agile  
+* "The Art of Agile Development" J.Shore & S.Warden
 
 <!--
 **marcinsmoliga/marcinsmoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

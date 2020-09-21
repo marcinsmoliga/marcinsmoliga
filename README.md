@@ -5,12 +5,12 @@
 * Java  
 
 * SQL      
- + "Sams Teach Yourself SQL in 10 minutes" B.Forta  
+ -> "Sams Teach Yourself SQL in 10 minutes" B.Forta  
  
 * Spring   
 
 * Agile    
- + "The Art of Agile Development" J.Shore & S.Warden
+ -> "The Art of Agile Development" J.Shore & S.Warden
 
 <!--
 **marcinsmoliga/marcinsmoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

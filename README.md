@@ -4,6 +4,7 @@
 :books: THE BOOKS I HAVE READ  
 :grey_exclamation: Java  
 :grey_exclamation: SQL  
+* "Sams Teach Yourself SQL in 10 minutes" B.Forta  
 :grey_exclamation: Spring  
 :grey_exclamation: Agile  
 * "The Art of Agile Development" J.Shore & S.Warden

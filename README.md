@@ -11,6 +11,7 @@
 
 * Agile    
  -> "The Art of Agile Development" J.Shore & S.Warden
+ -> "Scrum: The Art of Doing Twice the Work in Half the Time" J.Sutherland
 
 <!--
 **marcinsmoliga/marcinsmoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

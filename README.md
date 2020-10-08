@@ -10,7 +10,7 @@
 * Spring   
 
 * Agile    
- -> "The Art of Agile Development" J.Shore & S.Warden
+ -> "The Art of Agile Development" J.Shore & S.Warden  
  -> "Scrum: The Art of Doing Twice the Work in Half the Time" J.Sutherland  
 
 <!--

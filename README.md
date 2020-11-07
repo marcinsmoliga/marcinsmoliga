@@ -5,8 +5,8 @@
 * Java  
 
 * SQL      
- -> "Sams Teach Yourself SQL in 10 minutes" B.Forta 
- -> "Head First SQL
+ -> "Sams Teach Yourself SQL in 10 minutes" B.Forta   
+ -> "Head First SQL" L. Beighley
 
  
 * Spring   

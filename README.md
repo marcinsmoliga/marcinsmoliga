@@ -1,20 +1,6 @@
 [![image](https://github.com/marcinsmoliga/marcinsmoliga/blob/master/logo%20(6).png)](https://github.com/marcinsmoliga?tab=repositories)
 
 ### Hi there 👋
-:books: THE BOOKS I HAVE READ  
-* Java  
-
-* SQL      
- -> "Sams Teach Yourself SQL in 10 minutes" B.Forta   
- -> "Head First SQL" L. Beighley
-
- 
-* Spring   
-
-* Agile    
- -> "The Art of Agile Development" J.Shore & S.Warden  
- -> "Scrum: The Art of Doing Twice the Work in Half the Time" J.Sutherland  
- -> "Agile Project Management with Kanban" E.Brechner
 
 <!--
 **marcinsmoliga/marcinsmoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
